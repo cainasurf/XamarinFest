@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{56F55044-7E92-4267-BA9A-CDF866F3A93E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFest/XamarinFest/Lista.xaml.cs">
+    <Files>
+      <File FileName="XamarinFest/XamarinFest/Lista.xaml" Line="25" Column="15" />
+      <File FileName="XamarinFest/XamarinFest/Detalhe.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamarinFest/XamarinFest/Detalhe.xaml" Line="13" Column="15" />
+      <File FileName="XamarinFest/XamarinFest/Lista.xaml.cs" Line="24" Column="179" />
+      <File FileName="XamarinFest/XamarinFest/Noticia.cs" Line="14" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinFest.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>
